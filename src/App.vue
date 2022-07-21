@@ -29,7 +29,7 @@
 				</template>
 			</vs-navbar>
 			<vs-sidebar absolute v-model="active" :open.sync="activeSidebar">
-				<template #logo>Ligare</template>
+				<template #logo>Ligare new teste</template>
 				<vs-sidebar-item id="home" to="/">
 					<template #icon><i class='bx bx-home'></i></template>Home
 				</vs-sidebar-item>
